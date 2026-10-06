@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <defs>
+    <linearGradient id="bg2" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f5efe8"/>
+      <stop offset="100%" stop-color="#b08a69"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1200" fill="url(#bg2)"/>
+  <circle cx="220" cy="200" r="120" fill="rgba(255,255,255,0.18)"/>
+  <circle cx="960" cy="940" r="180" fill="rgba(255,255,255,0.12)"/>
+  <path d="M0 1020 C200 860, 330 820, 550 900 C770 980, 980 960, 1200 820 L1200 1200 L0 1200 Z" fill="rgba(58,76,63,0.12)"/>
+  <g fill="none" stroke="#3d4b42" stroke-width="5" opacity="0.38">
+    <path d="M600 230 C560 350, 540 420, 600 500 C660 420, 640 350, 600 230 Z"/>
+    <path d="M600 560 L600 820"/>
+    <path d="M490 660 C545 620, 575 620, 600 660 C625 620, 655 620, 710 660"/>
+  </g>
+  <text x="600" y="960" text-anchor="middle" font-family="Georgia, serif" font-size="72" fill="#3d4b42" letter-spacing="8">Together Forever</text>
+</svg>

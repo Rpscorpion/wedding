@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <defs>
+    <linearGradient id="bg4" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f3eadc"/>
+      <stop offset="100%" stop-color="#8f755f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1200" fill="url(#bg4)"/>
+  <circle cx="220" cy="180" r="110" fill="rgba(255,255,255,0.2)"/>
+  <circle cx="1000" cy="1020" r="160" fill="rgba(255,255,255,0.14)"/>
+  <path d="M0 980 C180 840, 420 820, 600 900 C770 980, 980 980, 1200 860 L1200 1200 L0 1200 Z" fill="rgba(58,76,63,0.12)"/>
+  <g fill="none" stroke="#3a4c3f" stroke-width="5" opacity="0.36">
+    <path d="M600 230 C555 350, 535 430, 600 500 C665 430, 645 350, 600 230 Z"/>
+    <path d="M600 560 L600 820"/>
+    <path d="M490 640 C540 600, 560 600, 600 640 C640 600, 660 600, 710 640"/>
+  </g>
+  <text x="600" y="960" text-anchor="middle" font-family="Georgia, serif" font-size="70" fill="#3a4c3f" letter-spacing="8">With Joy</text>
+</svg>

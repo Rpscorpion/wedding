@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <defs>
+    <linearGradient id="bg1" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#efe6d8"/>
+      <stop offset="100%" stop-color="#8a5d4a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1200" fill="url(#bg1)"/>
+  <circle cx="200" cy="180" r="110" fill="rgba(255,255,255,0.18)"/>
+  <circle cx="980" cy="1000" r="140" fill="rgba(255,255,255,0.12)"/>
+  <path d="M0 1000 C240 820, 375 780, 540 870 C760 980, 980 930, 1200 780 L1200 1200 L0 1200 Z" fill="rgba(58,76,63,0.15)"/>
+  <g fill="none" stroke="#3d4b42" stroke-width="5" opacity="0.35">
+    <path d="M600 210 C550 360, 530 440, 600 500 C670 440, 650 360, 600 210 Z"/>
+    <path d="M600 540 L600 820"/>
+    <path d="M480 630 C540 590, 560 590, 600 630 C640 590, 660 590, 720 630"/>
+  </g>
+  <text x="600" y="960" text-anchor="middle" font-family="Georgia, serif" font-size="70" fill="#3d4b42" letter-spacing="8">Nithya &amp; Ajaydev</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f2e7d5"/>
+      <stop offset="52%" stop-color="#fffaf4"/>
+      <stop offset="100%" stop-color="#7f5e41"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1600" fill="url(#bg)"/>
+  <circle cx="250" cy="220" r="120" fill="rgba(255,255,255,0.18)"/>
+  <circle cx="980" cy="320" r="180" fill="rgba(255,255,255,0.12)"/>
+  <circle cx="400" cy="1180" r="240" fill="rgba(58,76,63,0.07)"/>
+  <path d="M160 1120 C400 900, 780 900, 1035 1120 L1035 1270 C770 1420, 430 1420, 164 1268 Z" fill="rgba(58,76,63,0.1)"/>
+  <g fill="none" stroke="#3a4c3f" stroke-width="4" opacity="0.38">
+    <path d="M600 340 C550 490, 530 560, 600 620 C670 560, 650 490, 600 340 Z"/>
+    <path d="M600 680 L600 1000"/>
+    <path d="M470 760 C517 720, 550 720, 600 760 C650 720, 683 720, 730 760"/>
+  </g>
+  <text x="600" y="760" text-anchor="middle" font-family="Georgia, serif" font-size="76" fill="#3a4c3f" letter-spacing="7">Nikhil &amp; Sneha</text>
+  <text x="600" y="860" text-anchor="middle" font-family="Verdana, sans-serif" font-size="28" fill="#3a4c3f" letter-spacing="6">01 NOVEMBER 2026</text>
+  <text x="600" y="915" text-anchor="middle" font-family="Verdana, sans-serif" font-size="20" fill="#3a4c3f" letter-spacing="4">HOORIYA AUDITORIUM</text>
+</svg>
