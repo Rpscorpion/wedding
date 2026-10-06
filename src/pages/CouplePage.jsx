@@ -1,4 +1,3 @@
-import { ArrowDown } from 'lucide-react';
 import { Link, useParams } from 'react-router-dom';
 import Footer from '../components/Footer';
 import Gallery from '../components/Gallery';
@@ -37,9 +36,6 @@ export default function CouplePage() {
             {weddingData.venue}
             <span>{weddingData.location}</span>
           </p>
-          <a href="#timeline" className="primary-button">
-            View Details <ArrowDown size={16} />
-          </a>
         </div>
       </section>
 
