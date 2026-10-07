@@ -24,6 +24,11 @@ export const weddingData = {
         assetUrl('images/nikhil-sneha/memory-07.png'),
         assetUrl('images/nikhil-sneha/memory-08.png'),
         assetUrl('images/nikhil-sneha/memory-09.png'),
+        assetUrl('images/nikhil-sneha/memory-10.jpeg'),
+        assetUrl('images/nikhil-sneha/memory-11.jpeg'),
+        assetUrl('images/nikhil-sneha/memory-12.jpeg'),
+        assetUrl('images/nikhil-sneha/memory-13.jpeg'),
+        assetUrl('images/nikhil-sneha/memory-14.jpeg'),
       ],
       timeline: [
         { time: '8:30 AM', title: 'Wedding Ceremony Begins' },
