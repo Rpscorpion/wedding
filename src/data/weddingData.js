@@ -5,8 +5,8 @@ export const weddingData = {
   fullDate: '2026-11-01T08:30:00+05:30',
   time: '8:30 AM – 9:30 AM',
   venue: 'Hooriya Auditorium',
-  location: 'Puthantheru, Thanalur, Malappuram, Kerala',
-  venueString: 'Hooriya Auditorium, Puthantheru, Thanalur,Malappuram, Kerala',
+  location: 'Puthantheru, Malappuram, Kerala',
+  venueString: 'Hooriya Auditorium, Puthantheru, Malappuram, Kerala',
   venueUrl: 'https://maps.app.goo.gl/U8UFpzyLZpbY55f78',
   invitationMessage:
     'With the blessings of our beloved family, we warmly invite you to celebrate two beautiful beginnings on one unforgettable day.',
